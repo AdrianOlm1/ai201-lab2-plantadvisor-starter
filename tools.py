@@ -72,7 +72,7 @@ def lookup_plant(plant_name: str) -> dict:
     return {
         "found": False,
         "name": plant_name,
-        "message": "Plant lookup not yet implemented. Complete Milestone 1.",
+        "message": "Plant not defined in database",
     }
 
 
